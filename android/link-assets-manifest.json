@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "asset/fonts/Kolka Bold Italic.ttf",
+      "sha1": "3f29f7d17f72fcdf103ab429401109a2294e6073"
+    },
+    {
+      "path": "asset/fonts/Kolka Bold.ttf",
+      "sha1": "9c73535befaeccc9363633608cf22d28379fc241"
+    },
+    {
+      "path": "asset/fonts/Kolka DemiBold Italic.ttf",
+      "sha1": "802d3faf8feec5e594f3dd9d6719cfde3116ac69"
+    },
+    {
+      "path": "asset/fonts/Kolka DemiBold.ttf",
+      "sha1": "fe4463bbf1195d03b69138a0047b44532f81d0a6"
+    },
+    {
+      "path": "asset/fonts/Kolka Extra Light Italic.ttf",
+      "sha1": "e2bb222d69da25e1ff27a49ad3f180cdd4e3677f"
+    },
+    {
+      "path": "asset/fonts/Kolka Extra Light.ttf",
+      "sha1": "920f422119c79a293d38d0d89a68f43020cce9bb"
+    },
+    {
+      "path": "asset/fonts/Kolka ExtraBold Italic.ttf",
+      "sha1": "c5e34597a74407717b5a02a4ef1f09f8809e4f73"
+    },
+    {
+      "path": "asset/fonts/Kolka ExtraBold.ttf",
+      "sha1": "7f5d11aa318298e7f6dc89d349a3989f736ffa7b"
+    },
+    {
+      "path": "asset/fonts/Kolka Heavy Italic.ttf",
+      "sha1": "07c705beb21d512c13e9245b16817c81ba97ff97"
+    },
+    {
+      "path": "asset/fonts/Kolka Heavy.ttf",
+      "sha1": "8296374fc19a574910b727aa6577e77549ee58c8"
+    },
+    {
+      "path": "asset/fonts/Kolka Light Italic.ttf",
+      "sha1": "54d3b1d229446dfb57ab3fbc88f5bbd9baa4de9c"
+    },
+    {
+      "path": "asset/fonts/Kolka Light.ttf",
+      "sha1": "6bec5012983644867d960340e4c17181d148c5f2"
+    },
+    {
+      "path": "asset/fonts/Kolka Medium Italic.ttf",
+      "sha1": "0e51487dcd641b55f19b795ea942a4b443820432"
+    },
+    {
+      "path": "asset/fonts/Kolka Medium.ttf",
+      "sha1": "b700c026bbced9ba0f6a1c035f7e8f17104f141f"
+    },
+    {
+      "path": "asset/fonts/Kolka Regular Italic.ttf",
+      "sha1": "eb2ab27eb371ae0795400264d53fc39e4b0acafc"
+    },
+    {
+      "path": "asset/fonts/Kolka Regular.ttf",
+      "sha1": "1c58f47992d0fe17725fa792fb6967d82691beab"
+    },
+    {
+      "path": "asset/fonts/Kolka Thin Italic.ttf",
+      "sha1": "88a3296f4b1e42d3ec4b1875620a87c2733d5dc7"
+    },
+    {
+      "path": "asset/fonts/Kolka Thin.ttf",
+      "sha1": "b7eaceeb56e692dc0375ccb9d07301b46d6f79f6"
+    }
+  ]
+}
